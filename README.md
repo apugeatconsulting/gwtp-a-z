@@ -1,2 +1,1 @@
-# gwtp-a-z
-GWTP A-Z
+# GWTP A-Z
